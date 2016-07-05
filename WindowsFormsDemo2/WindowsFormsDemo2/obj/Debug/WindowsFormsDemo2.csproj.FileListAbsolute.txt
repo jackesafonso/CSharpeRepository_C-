@@ -1,0 +1,18 @@
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\bin\Debug\WindowsFormsDemo2.exe.config
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\bin\Debug\WindowsFormsDemo2.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\bin\Debug\WindowsFormsDemo2.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.csprojResolveAssemblyReference.cache
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.Form1.resources
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.Properties.Resources.resources
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.csproj.GenerateResource.Cache
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.pdb
+C:\Users\student\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\bin\Debug\WindowsFormsDemo2.exe.config
+C:\Users\student\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.exe
+C:\Users\student\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.pdb
+C:\Users\student\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\bin\Debug\WindowsFormsDemo2.exe
+C:\Users\student\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\bin\Debug\WindowsFormsDemo2.pdb
+C:\Users\student\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.Form1.resources
+C:\Users\student\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\CSharpeRepositoryy\WindowsFormsDemo2\WindowsFormsDemo2\obj\Debug\WindowsFormsDemo2.csproj.GenerateResource.Cache

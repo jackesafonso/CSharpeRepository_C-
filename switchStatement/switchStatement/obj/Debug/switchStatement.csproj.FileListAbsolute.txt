@@ -1,0 +1,18 @@
+C:\Users\student\Documents\GitHub\C#Repository\switchStatement\switchStatement\bin\Debug\switchStatement.exe.config
+C:\Users\student\Documents\GitHub\C#Repository\switchStatement\switchStatement\obj\Debug\switchStatement.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#Repository\switchStatement\switchStatement\bin\Debug\switchStatement.exe
+C:\Users\student\Documents\GitHub\C#Repository\switchStatement\switchStatement\bin\Debug\switchStatement.pdb
+C:\Users\student\Documents\GitHub\C#Repository\switchStatement\switchStatement\obj\Debug\switchStatement.exe
+C:\Users\student\Documents\GitHub\C#Repository\switchStatement\switchStatement\obj\Debug\switchStatement.pdb
+<<<<<<< HEAD
+C:\Users\student\Documents\GitHub\CSharpeRepository\switchStatement\switchStatement\bin\Debug\switchStatement.exe.config
+C:\Users\student\Documents\GitHub\CSharpeRepository\switchStatement\switchStatement\obj\Debug\switchStatement.exe
+C:\Users\student\Documents\GitHub\CSharpeRepository\switchStatement\switchStatement\obj\Debug\switchStatement.pdb
+=======
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\switchStatement\switchStatement\bin\Debug\switchStatement.exe.config
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\switchStatement\switchStatement\obj\Debug\switchStatement.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\switchStatement\switchStatement\obj\Debug\switchStatement.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\switchStatement\switchStatement\bin\Debug\switchStatement.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\switchStatement\switchStatement\bin\Debug\switchStatement.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\switchStatement\switchStatement\obj\Debug\switchStatement.csprojResolveAssemblyReference.cache
+>>>>>>> origin/master

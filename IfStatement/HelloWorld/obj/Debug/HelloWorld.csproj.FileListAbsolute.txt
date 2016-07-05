@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\C#Repository\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\student\Documents\GitHub\C#Repository\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\student\Documents\GitHub\C#Repository\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\student\Documents\GitHub\C#Repository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#Repository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\student\Documents\GitHub\C#Repository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

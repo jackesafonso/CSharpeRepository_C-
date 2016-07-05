@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#Repository\UserInputAndFindAverage\UserInputAndFindAverage\bin\Debug\UserInputAndFindAverage.exe.config
+C:\Users\student\Documents\GitHub\C#Repository\UserInputAndFindAverage\UserInputAndFindAverage\bin\Debug\UserInputAndFindAverage.exe
+C:\Users\student\Documents\GitHub\C#Repository\UserInputAndFindAverage\UserInputAndFindAverage\bin\Debug\UserInputAndFindAverage.pdb
+C:\Users\student\Documents\GitHub\C#Repository\UserInputAndFindAverage\UserInputAndFindAverage\obj\Debug\UserInputAndFindAverage.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#Repository\UserInputAndFindAverage\UserInputAndFindAverage\obj\Debug\UserInputAndFindAverage.exe
+C:\Users\student\Documents\GitHub\C#Repository\UserInputAndFindAverage\UserInputAndFindAverage\obj\Debug\UserInputAndFindAverage.pdb

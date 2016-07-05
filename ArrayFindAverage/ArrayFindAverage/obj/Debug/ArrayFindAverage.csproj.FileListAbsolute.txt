@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\C#Repository\ArrayFindAverage\ArrayFindAverage\bin\Debug\ArrayFindAverage.exe.config
+C:\Users\student\Documents\GitHub\C#Repository\ArrayFindAverage\ArrayFindAverage\obj\Debug\ArrayFindAverage.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#Repository\ArrayFindAverage\ArrayFindAverage\bin\Debug\ArrayFindAverage.exe
+C:\Users\student\Documents\GitHub\C#Repository\ArrayFindAverage\ArrayFindAverage\bin\Debug\ArrayFindAverage.pdb
+C:\Users\student\Documents\GitHub\C#Repository\ArrayFindAverage\ArrayFindAverage\obj\Debug\ArrayFindAverage.exe
+C:\Users\student\Documents\GitHub\C#Repository\ArrayFindAverage\ArrayFindAverage\obj\Debug\ArrayFindAverage.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\ArrayFindAverage\ArrayFindAverage\bin\Debug\ArrayFindAverage.exe.config
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\ArrayFindAverage\ArrayFindAverage\obj\Debug\ArrayFindAverage.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\ArrayFindAverage\ArrayFindAverage\obj\Debug\ArrayFindAverage.pdb

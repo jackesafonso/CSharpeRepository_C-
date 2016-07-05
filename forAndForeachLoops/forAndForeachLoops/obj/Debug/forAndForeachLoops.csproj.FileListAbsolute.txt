@@ -1,0 +1,15 @@
+C:\Users\student\Documents\GitHub\C#Repository\forAndForeachLoops\forAndForeachLoops\bin\Debug\forAndForeachLoops.exe.config
+C:\Users\student\Documents\GitHub\C#Repository\forAndForeachLoops\forAndForeachLoops\bin\Debug\forAndForeachLoops.exe
+C:\Users\student\Documents\GitHub\C#Repository\forAndForeachLoops\forAndForeachLoops\bin\Debug\forAndForeachLoops.pdb
+C:\Users\student\Documents\GitHub\C#Repository\forAndForeachLoops\forAndForeachLoops\obj\Debug\forAndForeachLoops.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#Repository\forAndForeachLoops\forAndForeachLoops\obj\Debug\forAndForeachLoops.exe
+C:\Users\student\Documents\GitHub\C#Repository\forAndForeachLoops\forAndForeachLoops\obj\Debug\forAndForeachLoops.pdb
+C:\Users\student\Documents\GitHub\CSharpeRepository\forAndForeachLoops\forAndForeachLoops\bin\Debug\forAndForeachLoops.exe.config
+C:\Users\student\Documents\GitHub\CSharpeRepository\forAndForeachLoops\forAndForeachLoops\obj\Debug\forAndForeachLoops.exe
+C:\Users\student\Documents\GitHub\CSharpeRepository\forAndForeachLoops\forAndForeachLoops\obj\Debug\forAndForeachLoops.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\forAndForeachLoops\forAndForeachLoops\bin\Debug\forAndForeachLoops.exe.config
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\forAndForeachLoops\forAndForeachLoops\obj\Debug\forAndForeachLoops.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\forAndForeachLoops\forAndForeachLoops\obj\Debug\forAndForeachLoops.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\forAndForeachLoops\forAndForeachLoops\bin\Debug\forAndForeachLoops.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\forAndForeachLoops\forAndForeachLoops\bin\Debug\forAndForeachLoops.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\forAndForeachLoops\forAndForeachLoops\obj\Debug\forAndForeachLoops.csprojResolveAssemblyReference.cache

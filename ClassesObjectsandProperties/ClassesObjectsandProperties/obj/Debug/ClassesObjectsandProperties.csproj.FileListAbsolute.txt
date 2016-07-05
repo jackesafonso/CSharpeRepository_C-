@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\CSharpeRepository1\ClassesObjectsandProperties\ClassesObjectsandProperties\bin\Debug\ClassesObjectsandProperties.exe.config
+C:\Users\student\Documents\GitHub\CSharpeRepository1\ClassesObjectsandProperties\ClassesObjectsandProperties\bin\Debug\ClassesObjectsandProperties.exe
+C:\Users\student\Documents\GitHub\CSharpeRepository1\ClassesObjectsandProperties\ClassesObjectsandProperties\bin\Debug\ClassesObjectsandProperties.pdb
+C:\Users\student\Documents\GitHub\CSharpeRepository1\ClassesObjectsandProperties\ClassesObjectsandProperties\obj\Debug\ClassesObjectsandProperties.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpeRepository1\ClassesObjectsandProperties\ClassesObjectsandProperties\obj\Debug\ClassesObjectsandProperties.exe
+C:\Users\student\Documents\GitHub\CSharpeRepository1\ClassesObjectsandProperties\ClassesObjectsandProperties\obj\Debug\ClassesObjectsandProperties.pdb

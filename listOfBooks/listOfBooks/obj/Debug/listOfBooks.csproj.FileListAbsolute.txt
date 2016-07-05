@@ -1,0 +1,24 @@
+C:\Users\student\Documents\GitHub\C#Repository\listOfBooks\listOfBooks\bin\Debug\listOfBooks.exe.config
+C:\Users\student\Documents\GitHub\C#Repository\listOfBooks\listOfBooks\bin\Debug\listOfBooks.exe
+C:\Users\student\Documents\GitHub\C#Repository\listOfBooks\listOfBooks\bin\Debug\listOfBooks.pdb
+C:\Users\student\Documents\GitHub\C#Repository\listOfBooks\listOfBooks\obj\Debug\listOfBooks.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#Repository\listOfBooks\listOfBooks\obj\Debug\listOfBooks.exe
+C:\Users\student\Documents\GitHub\C#Repository\listOfBooks\listOfBooks\obj\Debug\listOfBooks.pdb
+C:\Users\student\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\bin\Debug\listOfBooks.exe.config
+C:\Users\student\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\obj\Debug\listOfBooks.exe
+C:\Users\student\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\obj\Debug\listOfBooks.pdb
+C:\Users\student\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\obj\Debug\listOfBooks.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\bin\Debug\listOfBooks.exe
+C:\Users\student\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\bin\Debug\listOfBooks.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\bin\Debug\listOfBooks.exe.config
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\obj\Debug\listOfBooks.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\obj\Debug\listOfBooks.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\bin\Debug\listOfBooks.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\bin\Debug\listOfBooks.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepository\listOfBooks\listOfBooks\obj\Debug\listOfBooks.csprojResolveAssemblyReference.cache
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\listOfBooks\listOfBooks\bin\Debug\listOfBooks.exe.config
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\listOfBooks\listOfBooks\obj\Debug\listOfBooks.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\listOfBooks\listOfBooks\obj\Debug\listOfBooks.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\listOfBooks\listOfBooks\bin\Debug\listOfBooks.exe
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\listOfBooks\listOfBooks\bin\Debug\listOfBooks.pdb
+C:\Users\Jackes Afonso\Documents\GitHub\CSharpeRepositoryy\listOfBooks\listOfBooks\obj\Debug\listOfBooks.csprojResolveAssemblyReference.cache
